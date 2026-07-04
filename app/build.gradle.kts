@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "com.localmind.app"
+    namespace = "com.prashan.auraoffline.app"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.localmind.app"
+        applicationId = "com.prashan.auraoffline.app"
         minSdk = 26
         targetSdk = 35
         versionCode = 1       // VERSION: manually change karo jab update karna ho
