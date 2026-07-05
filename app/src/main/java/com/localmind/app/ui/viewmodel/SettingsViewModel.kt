@@ -29,7 +29,6 @@ import org.json.JSONObject
 import java.util.UUID
 import java.io.InputStream
 import java.io.OutputStream
-import com.prashan.auraoffline.app.BuildConfig
 // ImportExportStatus removed in favor of core.utils.UiState
 
 data class SettingsState(
