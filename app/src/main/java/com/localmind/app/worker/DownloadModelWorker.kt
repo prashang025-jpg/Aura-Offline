@@ -14,7 +14,7 @@ import androidx.work.ForegroundInfo
 import androidx.work.ListenableWorker
 import androidx.work.WorkerParameters
 import androidx.work.workDataOf
-import com.localmind.app.R
+import com.prashan.auraoffline.app.R
 import com.localmind.app.core.storage.ModelStorageType
 import com.localmind.app.core.storage.StoredModelRef
 import com.localmind.app.core.storage.PersistentModelStorageManager
